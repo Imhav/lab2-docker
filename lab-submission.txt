@@ -1,0 +1,3 @@
+- learned how to containerize a Node.js application and securely connect it to a MySQL database using Docker networks and volumes for data persistence. 
+- Progressed from running complex, manual CLI commands to setup the entire multi-container environment automatically using Docker Compose. 
+- Using bind mounts for real-time code updates and optimized my build process by leveraging layer caching.
